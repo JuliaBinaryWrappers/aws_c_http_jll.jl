@@ -1,6 +1,6 @@
 name = "aws_c_http_jll"
 uuid = "3254fc65-9028-534d-aa9d-d76d128babc6"
-version = "0.9.3+0"
+version = "0.9.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
