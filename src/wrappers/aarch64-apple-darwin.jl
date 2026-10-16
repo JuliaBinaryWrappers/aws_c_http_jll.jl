@@ -10,7 +10,7 @@ function __init__()
     JLLWrappers.@generate_init_header(aws_c_compression_jll, aws_c_io_jll)
     JLLWrappers.@init_library_product(
         libaws_c_http,
-        "lib/libaws-c-http.1.1.0.dylib",
+        "lib/libaws-c-http.1.1.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
